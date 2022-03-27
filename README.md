@@ -2,8 +2,9 @@
 
 Workflow that leverages pose detection from an Indigenous dancer's footage for a large scale public art project. 
 
+<p align="center">
 <img src="https://user-images.githubusercontent.com/76982323/160269048-903bdb35-ca60-49e6-a32d-51d5dfdb3a0e.png" />
-
+</p>
 
 <img src="https://user-images.githubusercontent.com/76982323/158522069-22c911b5-2eff-4213-85ad-92fcf747c2a5.png" width=100% />
 
