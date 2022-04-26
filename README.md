@@ -15,3 +15,12 @@ Workflow that leverages pose detection from an Indigenous dancer's footage for a
 <p align="center">
   <img src="https://user-images.githubusercontent.com/76982323/158522715-f9d41c6f-6ce5-4d21-9725-89f463cdb369.png"  />
 </p>
+
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/76982323/165327733-9115f98d-9ffe-4fb8-9b0a-13fde5ef0a36.png"  />
+</p>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/76982323/165327810-561c7891-3c2e-47be-ac34-49cbc2d113b1.png"  />
+</p>
